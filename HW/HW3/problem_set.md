@@ -12,7 +12,8 @@ Calculate the flatband voltage for an «-type substrate with $N_D = 5* 10^{17} c
 
 Produce plots like those in Figs. 2.10, 2.12, and 2.13 for $NA = 5 x 10^17$ , $t_{ox}=2nm$ and $V_{FB}=-0.8V$
 
-![[Fig2_10.png]]
+![[Fig2_10.png]](Fig2_10)
+
 ![[Fig2_12_13.png]]
 
 ### 2.6 

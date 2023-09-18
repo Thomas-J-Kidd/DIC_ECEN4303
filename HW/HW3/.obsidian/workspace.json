@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3f7589e890cc946a",
+        "id": "e72d2bd05d2cb191",
         "type": "tabs",
         "children": [
           {
-            "id": "d917409cd5e5da8d",
+            "id": "723812a99894a67d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d917409cd5e5da8d",
+  "active": "723812a99894a67d",
   "lastOpenFiles": [
+    "Fig2_10.md",
+    "problem_set.md",
     "Eq2.6.20.png",
     "Eq2.6.35.png",
     "Eq2.6.34.png",
     "hw3.pdf",
     "Eq2.6.27.png",
-    "problem_set.md",
     "Eq2.6.26.png",
     "Eq2.6.12.png",
     "Fig2_12_13.png",
