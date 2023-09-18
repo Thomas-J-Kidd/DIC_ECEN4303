@@ -6,13 +6,13 @@
 
 ### 2.2
 
-Calculate the flatband voltage for an «-type substrate with $N_D = 5* 10^{17} cm^{-3}$  $SiO_2$ with $t_{ox}=2nm$ and a polysilicon gate doped n-type with $N_D= 10^{20}cm^{-3}$. Assume $Q^{'}_0 = 2*10^{9} C/cm^2.$
+Calculate the flatband voltage for an n-type substrate with $N_D = 5* 10^{17} cm^{-3}$  $SiO_2$ with $t_{ox}=2nm$ and a polysilicon gate doped n-type with $N_D= 10^{20}cm^{-3}$. Assume $Q^{'}_0 = 2*10^{9} C/cm^2.$
 
 ### 2.3 
 
 Produce plots like those in Figs. 2.10, 2.12, and 2.13 for $NA = 5 x 10^17$ , $t_{ox}=2nm$ and $V_{FB}=-0.8V$
 
-![[Fig2_10.png]](Fig2_10)
+![[Fig2_10.png]]
 
 ![[Fig2_12_13.png]]
 
